@@ -69,7 +69,7 @@ JavaScript fue creado (¡en solo 10 días!) por <!-- links_blank [Brendan Eich](
 Seguramente te estás preguntando cómo es eso de tener un _intérprete_ JavaScript en el navegador. Pues, _**la mejor forma de aprender es haciendo**_: abre tu navegador Chrome y sigue los pasos que presenta Michelle en el siguiente video. Michelle te mostrará cómo escribir JavaScript y cómo hacer cosas geniales desde tu computadora, únicamente utilizando el navegador.
 
 <div class="iframeWrapper">
-	<iframe width="960" height="569" src="http://www.youtube.com/watch?v=_guTQcHaUQo" frameborder="0" allowfullscreen></iframe>
+	<iframe width="960" height="569" src="https://www.youtube.com/watch?v=_guTQcHaUQo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## JavaScript != Java
