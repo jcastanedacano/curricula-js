@@ -1,5 +1,4 @@
 * [Inicio](README.md)
-* [Bienvenida](/01-intro/01-introduction/00-welcome-and-orientation.md)
 * [Growth Mindset](/01-intro/01-introduction/01-growth-mindset.md)
 * [¿Por qué aprender a programar?](/01-intro/01-introduction/02-why-learn-to-code.md)
 * [Tu primer sitio web](/01-intro/01-introduction/03-your-first-website.md)
