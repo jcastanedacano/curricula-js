@@ -36,7 +36,8 @@ Primero, Michelle te explica un poco más sobre Replit y cómo crear tu cuenta:
 <iframe width="960" height="569" src="https://www.youtube.com/embed/Cs0oVTs11Es" frameborder="0" allowfullscreen></iframe>
 
 Accede a Replit desde aquí:
-https://repl.it/student_embed/classroom/22703/ec98bd8b7da4fcc54df199d4e5ddac11
+<iframe width="960" height="1600" src="
+https://repl.it/student/classrooms/22703?lite=true" frameborder="0" allowfullscreen></iframe>
 
 **IMPORTANTE: Continua solamente si completaste el reto en Replit. Es indispensale que lo completes para que consideremos que terminaste esta etapa de tu postulación.**
 
