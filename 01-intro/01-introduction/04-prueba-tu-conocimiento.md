@@ -22,11 +22,11 @@ cuestionarios y retos son de carácter **INDIVIDUAL**.
 
 _Nota: este quiz sólo puede ser completado una vez y **no** podrás cambiar tus respuestas._
 
-https://docs.google.com/forms/d/e/1FAIpQLSeVwW0lJQ8J-UgHKAHWo4p84_0FZ71UKnAcj8enGrhzbUtLCA/viewform?usp=sf_link
+<iframe width="960" height="569" src="https://docs.google.com/forms/d/e/1FAIpQLSeVwW0lJQ8J-UgHKAHWo4p84_0FZ71UKnAcj8enGrhzbUtLCA/viewform?usp=sf_link" frameborder="0" allowfullscreen></iframe>
 
 ## Auto-evaluación (anónima)
 
-https://docs.google.com/forms/d/e/1FAIpQLSfUlqctE62ta8yuvcxX59ARvcl8ZrHN7u5weR4VAM9kwhsePQ/viewform?usp=sf_link
+<iframe width="960" height="569" src="https://docs.google.com/forms/d/e/1FAIpQLSfUlqctE62ta8yuvcxX59ARvcl8ZrHN7u5weR4VAM9kwhsePQ/viewform?usp=sf_link" frameborder="0" allowfullscreen></iframe>
 
 **IMPORTANTE: Si estás tomando este curso como parte del proceso de
 postulación para Laboratoria, tu desempeño en los cuestionarios y retos de
