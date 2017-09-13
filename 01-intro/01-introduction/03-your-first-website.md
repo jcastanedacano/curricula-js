@@ -47,7 +47,7 @@ Como ya lo dijimos, _**la mejor manera de aprender es haciendo**_. Por eso, es h
 
 Michelle te explica por qué necesitarás un editor de texto para los ejercicios:
 
-[![Editor de texto intro](https://img.youtube.com/vi/wQKn1fh3pAM/0.jpg)](https://www.youtube.com/watch?v=wQKn1fh3pAM)
+<iframe width="960" height="569" src="https://www.youtube.com/embed/wQKn1fh3pAM" frameborder="0" allowfullscreen></iframe>
 
 En el siguiente video, Michelle te guiará a través de los siguientes pasos para que crees tu primera web:
 
@@ -59,7 +59,7 @@ En el siguiente video, Michelle te guiará a través de los siguientes pasos par
 
 Aquí el video:
 
-[![Mi primera Web HTML](https://img.youtube.com/vi/QP9FF9eoh-k/0.jpg)](https://www.youtube.com/watch?v=QP9FF9eoh-k)
+<iframe width="960" height="569" src="https://www.youtube.com/embed/QP9FF9eoh-k" frameborder="0" allowfullscreen></iframe>
 
 ## Etiquetas y elementos HTML
 
@@ -143,7 +143,7 @@ Los pasos a seguir son:
 
 Aquí el video de Michelle:
 
-[![Mi primera Web HTML con JS](https://img.youtube.com/vi/SSiWsDoK4GE/0.jpg)](https://www.youtube.com/watch?v=SSiWsDoK4GE)
+<iframe width="960" height="569" src="https://www.youtube.com/embed/SSiWsDoK4GE" frameborder="0" allowfullscreen></iframe>
 
 <!--
 ## Sube tu página a GitHub Pages
