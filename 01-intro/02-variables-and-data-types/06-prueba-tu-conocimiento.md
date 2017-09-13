@@ -22,7 +22,7 @@ cuestionarios y retos son de carácter **INDIVIDUAL**.
 
 _Nota: este quiz sólo puede ser completado una vez y **no** podrás cambiar tus respuestas._
 
-https://docs.google.com/forms/d/e/1FAIpQLSfhPq6wD-NEOrMIC51wnMxLUAh27nOVRZJW014cspXUxpAVXw/viewform?usp=sf_link
+<iframe width="960" height="1600" src="https://docs.google.com/forms/d/e/1FAIpQLSfhPq6wD-NEOrMIC51wnMxLUAh27nOVRZJW014cspXUxpAVXw/viewform?usp=sf_link" frameborder="0" allowfullscreen></iframe>
 
 ***
 
@@ -33,7 +33,7 @@ Replit. **A la hora de crear tu cuenta, asegúrate de usar el mismo correo que e
 
 Primero, Michelle te explica un poco más sobre Replit y cómo crear tu cuenta:
 
-[![Replit intro](https://i.ytimg.com/vi/Cs0oVTs11Es/0.jpg)](https://www.youtube.com/watch?v=Cs0oVTs11Es)
+<iframe width="960" height="569" src="https://www.youtube.com/embed/Cs0oVTs11Es" frameborder="0" allowfullscreen></iframe>
 
 Accede a Replit desde aquí:
 https://repl.it/student_embed/classroom/22703/ec98bd8b7da4fcc54df199d4e5ddac11
@@ -45,7 +45,8 @@ https://repl.it/student_embed/classroom/22703/ec98bd8b7da4fcc54df199d4e5ddac11
 
 ## Auto-evaluación (anónima)
 
-https://docs.google.com/forms/d/e/1FAIpQLSe4bgUbyHX08JViGZO9Zf5PQ7sP2wIanfwLC8RtGzGbzTbCBA/viewform?usp=sf_link
+<iframe width="960" height="1600" src="
+https://docs.google.com/forms/d/e/1FAIpQLSe4bgUbyHX08JViGZO9Zf5PQ7sP2wIanfwLC8RtGzGbzTbCBA/viewform?usp=sf_link" frameborder="0" allowfullscreen></iframe>
 
 <!-- Esto es irrelevante, ya dijimos que use su mail de postulación y con eso ya sabemos sus datos
 ## Encuesta de datos personales
