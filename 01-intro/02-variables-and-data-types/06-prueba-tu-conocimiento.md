@@ -41,8 +41,10 @@ Primero, Michelle te explica un poco más sobre Replit y cómo crear tu cuenta:
 
 Si tienes algun problema entrando al classroom, intenta los siguientes pasos:
 
+Opción 1:
 ![Solución1](https://lh6.googleusercontent.com/yYGoW8nHfcJv6gXUWCX3tcCNNdGV3UCVKZ6hE40f-mZkKC4HO375VtrF6kVwmwiv9JRVBoCI63UWhl7JbAsF_OsdBZbHBjnWyASr14bTzqF46DJHijPGwNJPmQMdrp0_se3sDbZQg2Q)
 
+Opción 2:
 ![Solución2](https://lh4.googleusercontent.com/xOzCvZzGLAOb3Op8Dnf17AjMOw0eITI5E-rv0fjPSumWqIw5oZcgYsD49J7_2_o7_0OrFjZheNxFGly0A9ZnBNUCnaopf2aKqOJzaMYDmuP-V-Nfqu4WcRKlr3_uy-6iaZtejtowh9U)
 
 
