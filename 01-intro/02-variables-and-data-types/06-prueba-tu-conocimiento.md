@@ -39,6 +39,8 @@ Primero, Michelle te explica un poco más sobre Replit y cómo crear tu cuenta:
 
 **IMPORTANTE: Continua solamente si completaste el reto en Replit. Es indispensale que lo completes para que consideremos que terminaste esta etapa de tu postulación.**
 
+[Solución](https://lh6.googleusercontent.com/yYGoW8nHfcJv6gXUWCX3tcCNNdGV3UCVKZ6hE40f-mZkKC4HO375VtrF6kVwmwiv9JRVBoCI63UWhl7JbAsF_OsdBZbHBjnWyASr14bTzqF46DJHijPGwNJPmQMdrp0_se3sDbZQg2Q)
+
 
 ***
 
