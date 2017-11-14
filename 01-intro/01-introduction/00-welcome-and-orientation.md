@@ -4,9 +4,9 @@ Hola y bienvenida a la tercera etapa del proceso de selección: el pre-trabajo. 
 
 Este curso es un paso fundamental del proceso de selección, pues nos permitirá comprobar tu interés por la tecnología, así como tu compromiso para pertenecer al programa. Además, analizaremos tu capacidad para aprender de manera individual e independiente.
 
-La duración aproximada del curso es de 15-20 horas. Tú podrás avanzar a tu propio ritmo, pero te recomendamos organizarte con tiempo para que vayas haciéndolo poco a poco. Tendrás hasta el **jueves 3 de agosto** para terminar.
+La duración aproximada del curso es de 15-20 horas. Tú podrás avanzar a tu propio ritmo, pero te recomendamos organizarte con tiempo para que vayas haciéndolo poco a poco.
 
-Para pasar a la siguiente etapa del proceso de selección es necesario que completes todo el pre-trabajo. Las postulantes que demuestren el mayor compromiso y potencial para aprender, serán invitadas a iniciar el periodo de pre-admisión, donde continuaremos con este curso de modo presencial. Será una buena oportunidad para demostrar todo lo que ya dominan y saben hacer.
+Para pasar a la siguiente etapa del proceso de selección es necesario que completes todo el pre-trabajo. Las postulantes que demuestren el mayor compromiso y potencial para aprender, serán invitadas a una entrevista presencial y posteriormente a iniciar el periodo de pre-admisión, donde continuaremos con este curso de modo presencial. Será una buena oportunidad para demostrar todo lo que ya dominan y saben hacer.
 
 ## Acompañamiento y puntos de apoyo
 
@@ -31,13 +31,17 @@ Video de Michelle explicando las descargas.
 Únete al grupo de Facebook correspondiente a la sede a la que estás postulando. Ahí podrás preguntar y resolver dudas en conjunto con las demás postulantes, con el apoyo del staff de profesores de Laboratoria.
 
 <!-- links_blank
+* [Guadalajara](https://facebook.com/groups/LaboratoriaGDL20171/)
 * [Lima](https://facebook.com/groups/LaboratoriaLima20172/)
 * [Ciudad de México](https://facebook.com/groups/LaboratoriaMX20172/)
 * [Santiago de Chile](https://facebook.com/groups/LaboratoriaCHILE20172/)
 -->
+* <a href="https://facebook.com/groups/LaboratoriaGDL20171/" target="_blank">Guadalajara</a>
 * <a href="https://facebook.com/groups/LaboratoriaLima20172/" target="_blank">Lima</a>
 * <a href="https://facebook.com/groups/LaboratoriaMX20172/" target="_blank">Ciudad de México</a>
 * <a href="https://facebook.com/groups/LaboratoriaCHILE20172/" target="_blank">Santiago de Chile</a>
+
+
 
 ### 2. Horas de consulta
 
@@ -45,24 +49,19 @@ Cada sede de Laboratoria tiene horarios de consulta para que puedas visitarnos y
 
 Las horas de consulta por sede son las siguientes:
 
-* Lima:
-  - Lunes 24 de julio de 6pm a 8pm, Av. José Pardo 601, oficina 1104, Miraflores.
-  - Lunes 31 de julio de 6pm a 8pm, Av. Benavides 1180, piso 7, Miraflores.
-  
-* México. Avenida Insurgentes Sur # 253, Piso 2. Colonia Roma:
-  - Lunes 24 de julio de 5pm a 7pm.
-  - Miércoles 26 de julio de 5pm a 7pm.
-  
-* Santiago de Chile. Puma 1180, Recoleta, Santiago de Chile:
-  - Jueves 20 de julio de 4pm a 6pm.
-  - Jueves 27 de julio de 4pm a 6pm.
-  - Martes 1 de agosto de 4pm a 6pm.
+* Guadalajara:
+  - POR DEFINIR
+
 
 ### 3. Correo
 
 Si no logras resolver tus dudas a través de Facebook o de las horas de consulta, también tendrás la opción de escribirle directamente a nuestro staff de profesores para resolver dudas puntuales. Trata de utilizar esta opción como último recurso ya que mientras más correos recibamos, más nos tardaremos en responderlos.
 
 Los contactos para cada sede, son los siguientes: 
+
+* Guadalajara:
+  - Yesenia Sánchez, yesenia@laboratoria.la
+  - Amelie Castillo, ameli@laboratoria.la
 
 * Lima:
   - Michelle Seguil, michelle@laboratoria.la
