@@ -104,10 +104,6 @@ el usuario y validación de inputs.
 Llegado a este punto es hora de conectar nuestra aplicación con un backend
 _serverless_ (Firebase en este caso).
 
-### Unidad 04: [Enrutamiento y navegación](04-routes)
-
-Finalmente veremos cómo añadir rutas y navegación en tu aplicación.
-
 ## Evaluación
 
 Para aprobar:
