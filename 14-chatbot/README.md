@@ -25,28 +25,40 @@ Tags: `bot`, `azure`
 
 ## Público objetivo
 
-Para quién es este curso?
+Está destinado a personas con conocimientos en C# y que deseen comenzar a desarrollar bots multi-plataforma utilizando Bot Framework. 
 
 ## Requerimientos previos
 
-Qué conocimientos previos se necesitan?
+C# o conceptos
+* [Enumeración](https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/enumeration-types)
+* [Constructores](https://msdn.microsoft.com/pt-br/library/ms173115.aspx)
+* [Interfaces](https://msdn.microsoft.com/es-es/library/ms173156.aspx)
+* [Herencia](https://msdn.microsoft.com/es-es/library/ms173149.aspx)
+* [Eventos](https://msdn.microsoft.com/es-es/library/ms366768.aspx)  
+* [Delegar](https://msdn.microsoft.com/es-es/library/ms173171.aspx) 
+* [LINQ](https://msdn.microsoft.com/es-es/library/bb397676.aspx)
+* [Expresiones lambda](https://msdn.microsoft.com/es-es/library/bb397687.aspx)
+* [Las directivas de compilación](https://msdn.microsoft.com/es-es/library/4y6tbswk.aspx)(comenzando con #if)
+* [Las conversiones de datos](https://msdn.microsoft.com/es-es/library/ms173105.aspx)
+* [El manejo de excepciones](https://msdn.microsoft.com/es-es/library/ms173160.aspx) 
+* [Genérico ](https://msdn.microsoft.com/es-es/library/512aeb7t.aspx)
+* [Asincrónicos](https://msdn.microsoft.com/es-es/library/hh156513.aspx)
+
+## IDE gratuito:
+[Visual Studio 2015 Community](https://www.visualstudio.com/es/downloads/) 
 
 ## Aprenderás
 
-En esta sección debes listar los objetivos de aprendizaje. Por ejemplo,
-extraído del curso de [paradigmas de programación](https://github.com/Laboratoria/curricula-js/tree/master/09-paradigms):
+Habremos presentado al participante:
 
-* Qué son los **paradigmas de programación**
-* Qué son **FP**, **OOP**, **EOP** y **PP** y cómo se comparan
-* A entender las diferencias y entre el estilo **imperativo vs declarativo**
-* Las diferencias entre **constructores** y **factories**
-* Cómo implementar **herencia prototipal**
-* Los principios básicos de la **programación funcional**
-* A usar **composición** como alternativa la _herencia_
-* A **trabajar sobre una base de código existente**
-* A trabajar haciendo **pair programming**
-* A sacarle el jugo a git y GitHub usando **issues**, **milestones**,
-  **branches**, **forks** y **pull requests**
+* Buenas prácticas para construcción de diálogos, con el objetivo de proyectar una mejor experiencia para el usuario.
+* La arquitectura básica para diferentes tipos de proyectos con Bot Framework.
+* Una visión amplia y practica sobre la metodología y utilización de componentes para construcción de bots multiplataforma, además de la comprensión de eventos y el ciclo de vida de una conversación.
+* La plataforma de Microsoft Cognitive Services de forma práctica, integrando APIs de inteligencia artificial.
+* APIs de datos hospedados en Azure para consumo de información.
+* Fundamentos para crear sus propions bots conectados a los servicios en la nube de Microsoft Azure.
+* Algunos servicios ofrecidos por Microsoft Azure que permiten incorporar de manera simple funcionalidades que agreguen valor a sus bots.
+* El proceso de publicación de un bot.
 
 ## Producto
 
@@ -146,7 +158,15 @@ aprenderlo.
 
 ## Evaluación
 
-[TODO]
+## Entrega del Bot
+El siguiente requerimiento de un Comercio de Compras:
+"BOTComercioCompras" Utilizar técnicas de compra personalizada que pueden ahorrar tiempo y dinero a los compradores mediante la búsqueda de ofertas y promociones a través de una simple conversación o una foto, comprobar el estado de su pedido, responder a preguntas frecuentes. Cuando los clientes están dispuestos a comprar artículos, canal de comunicación permite a los usuarios introducir su número de tarjeta de crédito o otro metodo de pago y realizar un pedido a través del canal de comunicación.
+
+Los requisitos del bot son:
+
+* El bot debe atender uno o más canales de comunicación (por ejemplo: Telegram, Skype, Slack, etc).
+* El desarrollo será basado en el SDK de Bot Framework, para C# o Node.js.
+* El bot se debe conectar a una API de consumo de datos en Azure y utilizar una o más APIs de inteligencia artificial disponibles en la plataforma Microsoft Cognitive Services.
 
 ## Contribuidores
 
@@ -164,5 +184,9 @@ Incluir una lista de cursos similares que sirvan como referencia.
 
 ## Lecturas complementarias
 
-Incluir una lista de _capítulos de libros_, _blog posts_, _videos_, y otros
-recursos como links a wikipedia, documentación, ...
+* [La documentación de Microsoft Bot Framework](https://docs.microsoft.com/en-us/bot-framework)
+* [Completo documentación de LUIS](https://www.luis.ai/home)
+* [Muestras de Bot para Nodejs](https://github.com/Microsoft/BotBuilder/tree/master/Node/examples)
+* [Muestras de Bot para C#](https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples)
+* [Más enlaces de muestras de bot](https://github.com/Microsoft/BotBuilder-Samples)
+* [Muchos de los recursos de Bot](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources)
