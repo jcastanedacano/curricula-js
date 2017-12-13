@@ -25,28 +25,27 @@ Tags: `bot`, `azure`
 
 ## Público objetivo
 
-Para quién es este curso?
+El está destinado a personas con conocimientos en C# y que deseen comenzar a desarrollar bots multi-plataforma utilizando Bot Framework. 
 
 ## Requerimientos previos
+IDE gratuito:
+<a href="https://www.visualstudio.com/es/post-download-vs/?sku=community&clcid=0xc0a&downloadrename=true%20&rr=https%3A%2F%2Fticapacitacion.com%2Fcurso%2Fbotses%2F">Visual Studio 2015 Community</a> con las actualizaciones más importantes para la plataforma.
 
-Qué conocimientos previos se necesitan?
+Cuenta de Microsoft Azure:
+Una cuenta de Microsoft Azure para conectar tu aplicación a la nube. (Se asociara tu correo al Portal de Azure de Laboratoria)
 
 ## Aprenderás
 
-En esta sección debes listar los objetivos de aprendizaje. Por ejemplo,
-extraído del curso de [paradigmas de programación](https://github.com/Laboratoria/curricula-js/tree/master/09-paradigms):
+Al finalizar aprenderás:
 
-* Qué son los **paradigmas de programación**
-* Qué son **FP**, **OOP**, **EOP** y **PP** y cómo se comparan
-* A entender las diferencias y entre el estilo **imperativo vs declarativo**
-* Las diferencias entre **constructores** y **factories**
-* Cómo implementar **herencia prototipal**
-* Los principios básicos de la **programación funcional**
-* A usar **composición** como alternativa la _herencia_
-* A **trabajar sobre una base de código existente**
-* A trabajar haciendo **pair programming**
-* A sacarle el jugo a git y GitHub usando **issues**, **milestones**,
-  **branches**, **forks** y **pull requests**
+* Buenas prácticas para construcción de diálogos, con el objetivo de proyectar una mejor experiencia para el usuario.
+* La arquitectura básica para diferentes tipos de proyectos con Bot Framework.
+* Una visión amplia y practica sobre la metodología y utilización de componentes para construcción de bots multiplataforma, además de la comprensión de eventos y el ciclo de vida de una conversación.
+* La plataforma de Microsoft Cognitive Services de forma práctica, integrando APIs de inteligencia artificial.
+* APIs de datos hospedados en Azure para consumo de información.
+* Fundamentos para crear sus propions bots conectados a los servicios en la nube de Microsoft Azure.
+* Algunos servicios ofrecidos por Microsoft Azure que permiten incorporar de manera simple funcionalidades que agreguen valor a sus bots.
+* El proceso de publicación de un bot.
 
 ## Producto
 
@@ -164,5 +163,9 @@ Incluir una lista de cursos similares que sirvan como referencia.
 
 ## Lecturas complementarias
 
-Incluir una lista de _capítulos de libros_, _blog posts_, _videos_, y otros
-recursos como links a wikipedia, documentación, ...
+<a href="https://docs.botframework.com/en-us/">La documentación de Microsoft Bot Framework</a>
+<a href="https://www.luis.ai/help">Completo documentación de LUIS</a> 
+<a href="https://github.com/Microsoft/BotBuilder/tree/master/Node/examples">Muestras de Bot para Nodejs</a> 
+<a href="https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples">Muestras de Bot para C#</a> 
+<a href="https://github.com/Microsoft/BotBuilder-Samples">Más enlaces de muestras de bot</a> 
+<a href="https://aka.ms/botresources">Muchos de los recursos de Bot</a>
