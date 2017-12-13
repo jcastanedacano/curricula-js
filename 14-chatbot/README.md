@@ -54,6 +54,8 @@ Toda propuesta de curso debe de estar acompañada de un producto o proyecto a
 desarrollar durante el curso, junto con la metodología de trabajo propuesta
 así como entregables y método de evaluación.
 
+"BOTComercioCompras" Utilizar técnicas de compra personalizada que pueden ahorrar tiempo y dinero a los compradores mediante la búsqueda de ofertas y promociones a través de una simple conversación o una foto, comprobar el estado de su pedido, responder a preguntas frecuentes. Cuando los clientes están dispuestos a comprar artículos, canal de comunicación permite a los usuarios introducir su número de tarjeta de crédito o otro metodo de pago y realizar un pedido a través del canal de comunicación.
+
 ## Syllabus
 
 ### Unidad 01: Principios de diseño y tipos de bots
