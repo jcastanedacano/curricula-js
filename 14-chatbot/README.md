@@ -25,11 +25,15 @@ Tags: `bot`, `azure`
 
 ## Público objetivo
 
-Para quién es este curso?
+Este curso está destinado a personas con conocimientos en C# y que deseen comenzar a desarrollar bots multi-plataforma utilizando Bot Framework.
 
 ## Requerimientos previos
 
-Qué conocimientos previos se necesitan?
+IDE gratuito:
+Visual Studio 2015 Community con las actualizaciones más importantes para la plataforma. Además de eso, también puedes descargar la versión gratuita de Visual Studio DevEssentials aquí. (Incluye un crédito mensual de $25 USD en servicios de Azure).
+
+Cuenta de Microsoft Azure:
+Una cuenta de Microsoft Azure para conectar tu aplicación a la nube.
 
 ## Aprenderás
 
